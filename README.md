@@ -10,7 +10,7 @@ This project implements and compares two deep learning architectures for EEG-bas
 
 **Authors:**  Tommaso Bianciardi - Marco Zanovello
 **Course:** Machine Learning for Healthcare Devices — University of Padova, MSc ICT
-**Year:** 2024/2025
+**Year:** 2025/26
 
 ---
 
