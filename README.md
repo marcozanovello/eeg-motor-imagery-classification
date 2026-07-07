@@ -50,7 +50,7 @@ Lightweight Inception-style architecture with parallel convolution branches at d
 | EEGNet | ~69% | ~0.54 |
 | Multiscale Inception CNN | ~69% | ~0.54 |
 
-Results averaged over 5 random seeds. The gap between architectures is smaller than run-to-run variability — the two models are **statistically equivalent** on this task and dataset.
+Results averaged over 5 random seeds. The two models are **equivalent** on this task and dataset.
 
 ---
 
